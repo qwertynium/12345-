@@ -1,0 +1,28 @@
+import static java.lang.System.out;
+
+public class Main {
+    public static void main(String[] args) {
+        int w = 20;
+        int h = 10;
+        for (int i = 0; i < h; i++){
+            if (i == 0 || i == h - 1){
+                out.print("*");
+                for (int j = 1; j < w - 1; j++){
+                    out.print("-");
+                }
+                out.println("*");
+
+            }else {
+                out.print("|");
+                for (int k = 0; k l)
+                out.println("|");
+
+
+                    }
+
+                }
+
+            }
+    }
+//}
+//}
